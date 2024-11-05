@@ -19,7 +19,7 @@
 - Access ggplot2 geom defaults with e.g. `GeomText$default_aes` [link](https://twitter.com/dataandme/status/1565310232309407744)
 
 ## tables
-- [flextable book](https://ardata-fr.github.io/flextable-book/)
+- flextable: [book](https://ardata-fr.github.io/flextable-book/) / [documentation](https://davidgohel.github.io/flextable/index.html)
 
 ## documents
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
