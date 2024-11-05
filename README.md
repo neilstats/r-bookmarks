@@ -18,6 +18,9 @@
 - [Extract a legend from a ggplot](https://www.neilwright.uk/posts/extract-a-ggplot-legend)
 - Access ggplot2 geom defaults with e.g. `GeomText$default_aes` [link](https://twitter.com/dataandme/status/1565310232309407744)
 
+## tables
+- [flextable book](https://ardata-fr.github.io/flextable-book/)
+
 ## documents
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - [officeverse book](https://ardata-fr.github.io/officeverse/)
