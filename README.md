@@ -9,7 +9,7 @@
 - [survival package (CRAN)](https://cran.r-project.org/package=survival)
 
 ## tidyeval
-- "how to pass columns as arguments when using tidyverse functions": https://x.com/lapply/status/1493908215796535296
+- [how to pass columns as arguments when using tidyverse functions](https://fosstodon.org/@juba/112925405428686880)
 - [Programming with dplyr](https://dplyr.tidyverse.org/articles/programming.html)
 
 ## plotting
