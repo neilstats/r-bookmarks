@@ -28,6 +28,7 @@
 
 ## writing packages
 - [R Packages (2e)](https://r-pkgs.org/)
+- [roxygen2](https://roxygen2.r-lib.org/)
 
 ## my packages
 - ckbplotr: [repository](https://github.com/neilstats/ckbplotr) | [website](https://neilstats.github.io/ckbplotr/) | [r-universe](https://neilstats.r-universe.dev/ckbplotr)
