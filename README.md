@@ -17,6 +17,7 @@
 - [Arranging multiple grobs on a page](https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html)
 - [Extract a legend from a ggplot](https://www.neilwright.uk/posts/extract-a-ggplot-legend)
 - Access ggplot2 geom defaults with e.g. `GeomText$default_aes` [link](https://twitter.com/dataandme/status/1565310232309407744)
+- [Aesthetic specifications for ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2-specs.html)
 
 ## tables
 - flextable: [book](https://ardata-fr.github.io/flextable-book/) / [documentation](https://davidgohel.github.io/flextable/index.html)
