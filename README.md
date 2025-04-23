@@ -1,5 +1,8 @@
 # R bookmarks
 
+- [R for Data Science (2e)](https://r4ds.hadley.nz/)
+- [Advanced R](https://adv-r.hadley.nz/)
+
 ## targets workflow
 - Manual: https://books.ropensci.org/targets/
 - Docs: https://docs.ropensci.org/targets/
